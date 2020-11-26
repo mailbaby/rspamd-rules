@@ -1,0 +1,2 @@
+# rspamd-rules
+rspamd rules
